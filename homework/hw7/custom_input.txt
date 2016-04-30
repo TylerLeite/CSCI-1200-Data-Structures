@@ -1,0 +1,41 @@
+p
+
+l heart_of_darkness
+
+a 3 the_talented_mr_ripley
+a 5 will_in_the_world
+a 1 heart_of_darkness
+a 0 pleasures_and_days
+a 3 the_baron_in_the_trees
+a 1 heart_of_darkness
+a -2 will_in_the_world
+
+c italo heart_of_darkness
+c marcel heart_of_darkness
+c joseph pleasures_and_days
+c stephen colonel_chabert
+c joseph heart_of_darkness
+c joseph pleasures_and_days
+
+p
+
+l the_talented_mr_ripley
+l will_in_the_world
+l heart_of_darkness
+l pleasures_and_days
+l the_baron_in_the_trees
+
+r honore
+r marcel
+r marcel
+
+c honore heart_of_darkness
+r honore
+c marcel heart_of_darkness
+
+p
+
+l the_talented_mr_ripley
+l will_in_the_world
+l heart_of_darkness
+l the_baron_in_the_trees

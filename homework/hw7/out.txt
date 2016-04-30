@@ -1,0 +1,50 @@
+no books are currently checked out
+don't have heart_of_darkness in library
+added 3 copies of the_talented_mr_ripley
+added 5 copies of will_in_the_world
+added 1 copy of heart_of_darkness
+can't add 0 copies of a book
+added 3 copies of the_baron_in_the_trees
+added 1 copy of heart_of_darkness
+can't add -2 copies of a book
+italo checked out heart_of_darkness
+marcel checked out heart_of_darkness
+don't have pleasures_and_days in library
+don't have colonel_chabert in library
+no copies of heart_of_darkness available
+don't have pleasures_and_days in library
+italo has this item checked out:
+  heart_of_darkness
+marcel has this item checked out:
+  heart_of_darkness
+library info for: the_talented_mr_ripley
+  3 copies available
+library info for: will_in_the_world
+  5 copies available
+library info for: heart_of_darkness
+  2 copies checked out by:
+    italo
+    marcel
+don't have pleasures_and_days in library
+library info for: the_baron_in_the_trees
+  3 copies available
+honore has no items checked out
+marcel returned 1 item
+marcel has no items checked out
+honore checked out heart_of_darkness
+honore returned 1 item
+marcel checked out heart_of_darkness
+italo has this item checked out:
+  heart_of_darkness
+marcel has this item checked out:
+  heart_of_darkness
+library info for: the_talented_mr_ripley
+  3 copies available
+library info for: will_in_the_world
+  5 copies available
+library info for: heart_of_darkness
+  2 copies checked out by:
+    italo
+    marcel
+library info for: the_baron_in_the_trees
+  3 copies available
